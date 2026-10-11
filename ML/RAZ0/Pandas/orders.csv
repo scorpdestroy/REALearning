@@ -1,0 +1,100 @@
+id	first_name	last_name	email	shoe_type	shoe_material	shoe_color	price
+0	41874	Kyle	Peck	KylePeck71@gmail.com	ballet flats	faux-leather	black	385.0
+1	31349	Elizabeth	Velazquez	EVelazquez1971@gmail.com	boots	fabric	brown	388.0
+2	43416	Keith	Saunders	KS4047@gmail.com	sandles	leather	navy	346.0
+3	56054	Ryan	Sweeney	RyanSweeney14@outlook.com	sandles	fabric	brown	344.0
+4	77402	Donna	Blankenship	DB3807@gmail.com	stilettos	fabric	brown	289.0
+5	97148	Albert	Dillon	Albert.Dillon@gmail.com	wedges	fabric	brown	266.0
+6	19998	Judith	Hewitt	JudithHewitt98@gmail.com	stilettos	leather	black	395.0
+7	83290	Kayla	Hardin	Kayla.Hardin@gmail.com	stilettos	leather	white	241.0
+8	77867	Steven	Blankenship	Steven.Blankenship@gmail.com	wedges	leather	navy	266.0
+9	54885	Carol	Mclaughlin	CM3415@gmail.com	ballet flats	faux-leather	brown	440.0
+10	35853	Jacob	Juarez	JJuarez1977@outlook.com	ballet flats	leather	red	331.0
+11	35916	Michael	Christensen	Michael.Christensen@gmail.com	ballet flats	faux-leather	red	270.0
+12	39587	Dennis	Vega	Dennis.Vega@gmail.com	ballet flats	faux-leather	brown	91.0
+13	19234	Kathleen	Frost	KFrost1970@gmail.com	clogs	leather	brown	319.0
+14	19733	Deborah	Lara	Deborah.Lara@gmail.com	ballet flats	leather	white	205.0
+15	30871	Abigail	Dillard	ADillard1994@gmail.com	ballet flats	faux-leather	white	278.0
+16	11967	Maria	Whitfield	Maria.Whitfield@gmail.com	wedges	fabric	white	180.0
+17	42371	Gregory	Rose	GRose1983@gmail.com	boots	faux-leather	brown	319.0
+18	35693	Margaret	Tyler	MTyler1974@gmail.com	ballet flats	fabric	brown	481.0
+19	36694	Jessica	Cash	JCash1997@gmail.com	clogs	leather	red	397.0
+20	84933	Jeremy	Holder	JeremyHolder35@gmail.com	wedges	leather	red	347.0
+21	92283	Diana	Burgess	DBurgess1998@gmail.com	wedges	faux-leather	red	324.0
+22	87240	William	Calderon	WilliamCalderon79@gmail.com	clogs	leather	red	439.0
+23	49817	Katherine	Jensen	Katherine.Jensen@gmail.com	boots	fabric	black	171.0
+24	18255	Tiffany	Bradshaw	TB6065@gmail.com	boots	faux-leather	navy	284.0
+25	16026	William	Edwards	WE2364@gmail.com	sandles	leather	white	326.0
+26	39560	Teresa	Valenzuela	TValenzuela1973@gmail.com	clogs	leather	brown	323.0
+27	63898	Amber	Gross	Amber.Gross@gmail.com	stilettos	leather	black	451.0
+28	31777	Kayla	Fox	Kayla.Fox@yahoo.com	sandles	fabric	navy	207.0
+29	42232	Megan	Tyson	MTyson1979@gmail.com	sandles	faux-leather	white	456.0
+30	69370	Vincent	Greer	Vincent.Greer@gmail.com	boots	leather	brown	308.0
+31	62378	Willie	Sharp	WS5572@gmail.com	wedges	fabric	white	161.0
+32	48007	Billy	Dalton	BDalton1987@gmail.com	stilettos	fabric	navy	167.0
+33	27900	Alan	Golden	AG6950@gmail.com	boots	fabric	navy	289.0
+34	85959	Julie	Rosa	JRosa1990@outlook.com	stilettos	leather	brown	481.0
+35	94489	Philip	Carpenter	Philip.Carpenter@gmail.com	boots	faux-leather	red	247.0
+36	24421	Megan	Rhodes	MR1115@gmail.com	boots	fabric	black	100.0
+37	87527	James	Sheppard	James.Sheppard@gmail.com	boots	faux-leather	brown	211.0
+38	87313	Wayne	Small	WSmall1987@gmail.com	stilettos	faux-leather	navy	487.0
+39	18507	Donna	Clay	DC4155@hotmail.com	boots	fabric	navy	478.0
+40	49063	Sara	Michael	SaraMichael67@gmail.com	sandles	fabric	brown	247.0
+41	76091	Joan	Chan	JoanChan88@gmail.com	wedges	faux-leather	red	253.0
+42	50912	Nicole	Morgan	NicoleMorgan51@hotmail.com	boots	faux-leather	black	114.0
+43	26090	Jacob	Callahan	JacobCallahan54@gmail.com	stilettos	leather	black	286.0
+44	65512	Brenda	Jacobson	Brenda.Jacobson@gmail.com	wedges	leather	navy	195.0
+45	15125	Elizabeth	Day	Elizabeth.Day@gmail.com	wedges	fabric	navy	204.0
+46	72787	Patrick	Keller	PatrickKeller42@outlook.com	stilettos	fabric	black	285.0
+47	60684	Anna	Lancaster	Anna.Lancaster@hotmail.com	boots	leather	red	435.0
+48	36015	Richard	Forbes	RForbes1973@gmail.com	wedges	faux-leather	black	289.0
+49	73858	Lisa	Durham	Lisa.Durham@gmail.com	boots	faux-leather	white	339.0
+50	62605	Jennifer	Chang	JC2229@gmail.com	boots	fabric	navy	205.0
+51	54049	Kelly	Montoya	KellyMontoya63@gmail.com	wedges	leather	brown	141.0
+52	13769	Arthur	Casey	AC1888@gmail.com	boots	fabric	navy	230.0
+53	10204	Victoria	Higgins	VictoriaHiggins66@hotmail.com	ballet flats	leather	red	187.0
+54	52786	Ronald	Morton	RM3539@gmail.com	sandles	fabric	navy	286.0
+55	90249	Joan	Rivas	JoanRivas66@gmail.com	clogs	fabric	red	437.0
+56	26448	Stephen	Stevens	StephenStevens66@gmail.com	boots	leather	brown	176.0
+57	74824	Abigail	Johns	Abigail.Johns@gmail.com	wedges	fabric	black	283.0
+58	62812	Jessica	Ortega	Jessica.Ortega@gmail.com	sandles	faux-leather	white	236.0
+59	40484	Walter	Cunningham	Walter.Cunningham@gmail.com	boots	fabric	navy	372.0
+60	66605	Justin	Knight	JKnight1985@gmail.com	clogs	faux-leather	brown	138.0
+61	17784	Louis	Miranda	LouisMiranda65@gmail.com	clogs	leather	black	451.0
+62	84878	Carolyn	O'neil	Carolyn.O'neil@gmail.com	boots	leather	white	227.0
+63	97228	Margaret	Pickett	MP1336@gmail.com	stilettos	faux-leather	brown	351.0
+64	13553	Aaron	Hanson	AH3867@gmail.com	clogs	faux-leather	navy	493.0
+65	91572	Ethan	Hobbs	EH6701@gmail.com	boots	leather	white	193.0
+66	22823	Linda	Russo	LR1703@gmail.com	wedges	faux-leather	navy	406.0
+67	54425	John	Ramos	JRamos1982@gmail.com	clogs	leather	brown	313.0
+68	83346	Rachel	Lowery	Rachel.Lowery@gmail.com	ballet flats	faux-leather	brown	212.0
+69	86546	Lisa	Spence	LSpence1998@gmail.com	wedges	faux-leather	black	115.0
+70	55282	Noah	Knox	Noah.Knox@gmail.com	ballet flats	faux-leather	white	308.0
+71	33364	Andrea	Chang	Andrea.Chang@yahoo.com	ballet flats	faux-leather	white	106.0
+72	61294	Bobby	Watkins	BWatkins1975@outlook.com	sandles	faux-leather	brown	241.0
+73	83961	Stephen	Hogan	SHogan1990@gmail.com	sandles	faux-leather	brown	113.0
+74	56339	Lisa	Mcfadden	LisaMcfadden49@gmail.com	clogs	fabric	black	221.0
+75	68675	Ruth	Owen	RO7614@gmail.com	clogs	leather	white	324.0
+76	68967	Sharon	Franco	SFranco1983@gmail.com	ballet flats	fabric	brown	124.0
+77	42304	Danielle	Hawkins	DH1551@gmail.com	sandles	fabric	navy	122.0
+78	57075	Jesse	Foster	JesseFoster77@gmail.com	clogs	fabric	brown	234.0
+79	97943	David	Fuentes	DFuentes1984@hotmail.com	clogs	fabric	black	242.0
+80	93774	Rebecca	Park	RebeccaPark83@gmail.com	ballet flats	fabric	black	226.0
+81	70164	Ann	Greene	Ann.Greene@gmail.com	stilettos	fabric	red	474.0
+82	24999	Paul	Freeman	PaulFreeman9@gmail.com	sandles	fabric	red	409.0
+83	19127	Philip	Dillard	Philip.Dillard@gmail.com	wedges	faux-leather	red	411.0
+84	67253	Amber	Daugherty	AmberDaugherty60@gmail.com	clogs	faux-leather	red	95.0
+85	55075	Ashley	Rogers	Ashley.Rogers@hotmail.com	wedges	faux-leather	brown	269.0
+86	39447	Denise	Mendoza	DM2227@outlook.com	clogs	faux-leather	brown	93.0
+87	26805	Sean	Richardson	SR5213@gmail.com	sandles	fabric	navy	339.0
+88	35529	Carol	Reilly	CarolReilly18@gmail.com	wedges	fabric	brown	429.0
+89	49703	Paul	Henderson	Paul.Henderson@gmail.com	stilettos	fabric	red	430.0
+90	47183	Cynthia	Duffy	CDuffy1983@gmail.com	clogs	leather	black	451.0
+91	83778	Joe	Perry	JoePerry3@gmail.com	ballet flats	leather	white	196.0
+92	79139	Susan	Cash	SusanCash16@gmail.com	sandles	faux-leather	red	185.0
+93	81591	Theresa	Henderson	THenderson1993@gmail.com	stilettos	leather	white	342.0
+94	21506	Scott	Deleon	Scott.Deleon@gmail.com	stilettos	fabric	black	374.0
+95	77266	Zachary	Gregory	Zachary.Gregory@gmail.com	sandles	leather	red	216.0
+96	67264	Danielle	Merrill	DMerrill1998@gmail.com	wedges	faux-leather	red	461.0
+97	19100	Danielle	Barron	DBarron1982@gmail.com	sandles	leather	white	313.0
+98	26210	Marilyn	Finch	MarilynFinch92@gmail.com	sandles	leather	black	nan

@@ -1,0 +1,221 @@
+	id	name	genre	year	imdb_rating
+0	1	Avatar	action	2009	7.9
+1	2	Jurassic World	action	2015	7.3
+2	3	The Avengers	action	2012	8.1
+3	4	The Dark Knight	action	2008	9.0
+4	5	Star Wars: Episode I - The Phantom Menace	action	1999	6.6
+5	6	Star Wars	action	1977	8.7
+6	7	Avengers: Age of Ultron	action	2015	7.9
+7	8	The Dark Knight Rises	action	2012	8.5
+8	9	Pirates of the Caribbean: Dead Mans Chest	action	2006	7.3
+9	10	Iron Man 3	action	2013	7.3
+10	11	Spider-Man	action	2002	7.3
+11	12	Transformers: Revenge of the Fallen	action	2009	6.0
+12	13	Star Wars: Episode III - Revenge of the Sith	action	2005	7.7
+13	14	Spider-Man 2	action	2004	7.3
+14	15	Transformers: Dark of the Moon	action	2011	6.3
+15	16	American Sniper	action	2014	7.4
+16	17	Furious Seven	action	2015	7.4
+17	18	Spider-Man 3	action	2007	6.2
+18	19	Guardians of the Galaxy	action	2014	8.1
+19	20	Transformers	action	2007	7.1
+20	21	Iron Man	action	2008	7.9
+21	22	Indiana Jones and the Kingdom of the Crystal Skull	action	2008	6.2
+22	23	Iron Man 2	action	2010	7.1
+23	24	Star Wars: Episode II - Attack of the Clones	action	2002	6.7
+24	25	Pirates of the Caribbean: At Worlds End	action	2007	7.1
+25	26	Star Wars: Episode VI - Return of the Jedi	action	1983	8.4
+26	27	Independence Day	action	1996	6.9
+27	28	Pirates of the Caribbean: The Curse of the Black Pearl	action	2003	8.1
+28	29	Skyfall	action	2012	7.8
+29	30	Inception	action	2010	8.8
+30	31	Man of Steel	action	2013	7.2
+31	32	Star Wars: Episode V - The Empire Strikes Back	action	1980	8.8
+32	33	The Matrix Reloaded	action	2003	7.2
+33	34	The Amazing Spider-Man	action	2012	7.1
+34	35	The Incredibles	action	2004	8.0
+35	36	Captain America: The Winter Soldier	action	2014	7.8
+36	37	The Lego Movie	action	2014	7.8
+37	38	Star Trek	action	2009	8.0
+38	39	Batman	action	1989	7.6
+39	40	Night at the Museum	action	2006	6.4
+40	41	Transformers: Age of Extinction	action	2014	5.8
+41	42	Twister	action	1996	6.3
+42	43	Maleficent	action	2014	7.0
+43	44	Pirates of the Caribbean: On Stranger Tides	action	2011	6.7
+44	45	Fast & Furious 6	action	2013	7.2
+45	46	Beverly Hills Cop	action	1984	7.3
+46	47	X-Men: The Last Stand	action	2006	6.8
+47	48	X-Men: Days of Future Past	action	2014	8.1
+48	49	The Lost World: Jurassic Park	action	1997	6.5
+49	50	Star Trek Into Darkness	action	2013	7.8
+50	51	Shrek 2	comedy	2004	7.2
+51	52	Toy Story 3	comedy	2010	8.4
+52	53	Frozen	comedy	2013	7.6
+53	54	Finding Nemo	comedy	2003	8.2
+54	55	Despicable Me 2	comedy	2013	7.5
+55	56	Inside Out	comedy	2015	8.6
+56	57	Shrek the Third	comedy	2007	6.0
+57	58	Minions	comedy	2015	6.7
+58	59	Up	comedy	2009	8.3
+59	60	Monsters, Inc.	comedy	2001	8.1
+60	61	Home Alone	comedy	1990	7.4
+61	62	Meet the Fockers	comedy	2004	6.3
+62	63	The Hangover	comedy	2009	7.8
+63	64	Monsters University	comedy	2013	7.4
+64	65	Shrek	comedy	2001	7.9
+65	66	How the Grinch Stole Christmas	comedy	2000	6.0
+66	67	The Hangover Part II	comedy	2011	6.5
+67	68	Despicable Me	comedy	2010	7.7
+68	69	Men in Black	comedy	1997	7.2
+69	70	Toy Story 2	comedy	1999	7.9
+70	71	Cars	comedy	2006	7.2
+71	72	Bruce Almighty	comedy	2003	6.7
+72	73	My Big Fat Greek Wedding	comedy	2002	6.6
+73	74	Shrek Forever After	comedy	2010	6.4
+74	75	Brave	comedy	2012	7.2
+75	76	Ghostbusters	comedy	1984	7.8
+76	77	Rush Hour 2	comedy	2001	6.6
+77	78	Big Hero 6	comedy	2014	7.9
+78	79	Alvin and the Chipmunks: The Squeakquel	comedy	2009	4.4
+79	80	Mrs. Doubtfire	comedy	1993	6.9
+80	81	Ted	comedy	2012	7.0
+81	82	Aladdin	comedy	1992	8.0
+82	83	Alvin and the Chipmunks	comedy	2007	5.3
+83	84	Madagascar 3: Europes Most Wanted	comedy	2012	7.0
+84	85	Kung Fu Panda	comedy	2008	7.6
+85	86	The Lorax	comedy	2012	6.5
+86	87	Austin Powers in Goldmember	comedy	2002	6.2
+87	88	Back to the Future	comedy	1985	8.5
+88	89	Wedding Crashers	comedy	2005	7.0
+89	90	Charlie and the Chocolate Factory	comedy	2005	6.7
+90	91	Ratatouille	comedy	2007	8.0
+91	92	Austin Powers: The Spy Who Shagged Me	comedy	1999	6.6
+92	93	Tangled	comedy	2010	7.8
+93	94	Monsters vs. Aliens	comedy	2009	6.6
+94	95	Happy Feet	comedy	2006	6.5
+95	96	Ice Age: Dawn of the Dinosaurs	comedy	2009	7.0
+96	97	Ice Age: The Meltdown	comedy	2006	6.9
+97	98	World War Z	horror	2013	7.0
+98	99	What Lies Beneath	horror	2000	6.6
+99	100	Gremlins	horror	1984	7.2
+100	101	The Blair Witch Project	horror	1999	6.4
+101	102	The Conjuring	horror	2013	7.5
+102	103	The Ring	horror	2002	7.1
+103	104	The Grudge	horror	2004	5.9
+104	105	Paranormal Activity	horror	2007	6.3
+105	106	Interview with the Vampire: The Vampire Chronicles	horror	1994	7.6
+106	107	Paranormal Activity 3	horror	2011	5.9
+107	108	Scream	horror	1996	7.2
+108	109	Jaws 2	horror	1978	5.7
+109	110	Scream 2	horror	1997	6.1
+110	111	Sleepy Hollow	horror	1999	7.4
+111	112	The Others	horror	2001	7.6
+112	113	The Haunting	horror	1999	4.9
+113	114	Scream 3	horror	2000	5.5
+114	115	Saw II	horror	2005	6.6
+115	116	The Amityville Horror	horror	1979	6.2
+116	117	Aliens	horror	1986	8.4
+117	118	Paranormal Activity 2	horror	2010	5.7
+118	119	Annabelle	horror	2014	5.4
+119	120	Scooby-Doo 2: Monsters Unleashed	horror	2004	4.9
+120	121	Insidious: Chapter 2	horror	2013	6.6
+121	122	Dracula	horror	1992	7.5
+122	123	Freddy vs. Jason	horror	2003	5.8
+123	124	Blade II	horror	2002	6.7
+124	125	Saw III	horror	2006	6.2
+125	126	The Texas Chainsaw Massacre	horror	2003	6.2
+126	127	Cloverfield	horror	2008	7.1
+127	128	Dark Shadows	horror	2012	6.2
+128	129	The Ring Two	horror	2005	5.4
+129	130	Zombieland	horror	2009	7.7
+130	131	Constantine	horror	2005	6.9
+131	132	The Exorcism of Emily Rose	horror	2005	6.7
+132	133	I Know What You Did Last Summer	horror	1997	5.6
+133	134	1408	horror	2007	6.8
+134	135	Mama	horror	2013	6.2
+135	136	The Purge: Anarchy	horror	2014	6.5
+136	137	Scary Movie 2	horror	2001	5.2
+137	138	Blade	horror	1998	7.1
+138	139	End of Days	horror	1999	5.7
+139	140	The Forgotten	horror	2004	5.8
+140	141	The Final Destination	horror	2009	5.2
+141	142	Warm Bodies	horror	2013	6.9
+142	143	Anaconda	horror	1997	4.6
+143	144	Wolf	horror	1994	6.2
+144	145	Friday the 13th	horror	2009	5.6
+145	146	The Purge	horror	2013	5.6
+146	147	Titanic	romance	1997	7.7
+147	148	Forrest Gump	romance	1994	8.8
+148	149	The Twilight Saga: Eclipse	romance	2010	4.9
+149	150	The Twilight Saga: New Moon	romance	2009	4.6
+150	151	The Twilight Saga: Breaking Dawn - Part 2	romance	2012	5.6
+151	152	The Twilight Saga: Breaking Dawn - Part 1	romance	2011	4.9
+152	153	Beauty and the Beast	romance	1991	8.0
+153	154	King Kong	romance	2005	7.3
+154	155	Ghost	romance	1990	7.0
+155	156	Cinderella	romance	2015	7.1
+156	157	Gone with the Wind	romance	1939	8.2
+157	158	Pearl Harbor	romance	2001	6.0
+158	159	Twilight	romance	2008	5.2
+159	160	Mr. & Mrs. Smith	romance	2005	6.5
+160	161	Snow White and the Seven Dwarfs	romance	1937	7.7
+161	162	What Women Want	romance	2000	6.4
+162	163	Top Gun	romance	1986	6.8
+163	164	Pretty Woman	romance	1990	6.9
+164	165	Hitch	romance	2005	6.7
+165	166	Tootsie	romance	1982	7.4
+166	167	Theres Something About Mary	romance	1998	7.1
+167	168	Elf	romance	2003	6.9
+168	169	Tarzan	romance	1999	7.2
+169	170	Bridesmaids	romance	2011	6.8
+170	171	Fifty Shades of Grey	romance	2015	4.2
+171	172	Robin Hood: Prince of Thieves	romance	1991	6.9
+172	173	The Proposal	romance	2009	6.7
+173	174	The Sound of Music	romance	1965	8.0
+174	175	Jerry Maguire	romance	1996	7.3
+175	176	Sex and the City	romance	2008	5.5
+176	177	Runaway Bride	romance	1999	5.4
+177	178	Les Misrables	romance	2012	7.6
+178	179	Knocked Up	romance	2007	7.1
+179	180	Little Fockers	romance	2010	5.5
+180	181	As Good as It Gets	romance	1997	7.8
+181	182	American Pie 2	romance	2001	6.4
+182	183	The Great Gatsby	romance	2013	7.3
+183	184	Mamma Mia!	romance	2008	6.4
+184	185	Juno	romance	2007	7.5
+185	186	Marley & Me	romance	2008	7.1
+186	187	Pocahontas	romance	1995	6.6
+187	188	Slumdog Millionaire	romance	2008	8.0
+188	189	Look Whos Talking	romance	1989	5.8
+189	190	Click	romance	2006	6.4
+190	191	The Lion King	drama	1994	8.5
+191	192	Harry Potter and the Deathly Hallows: Part 2	drama	2011	8.1
+192	193	The Sixth Sense	drama	1999	8.2
+193	194	Jaws	drama	1975	8.1
+194	195	I Am Legend	drama	2007	7.2
+195	196	The Blind Side	drama	2009	7.7
+196	197	Cast Away	drama	2000	7.7
+197	198	Signs	drama	2002	6.7
+198	199	Saving Private Ryan	drama	1998	8.6
+199	200	Dawn of the Planet of the Apes	drama	2014	7.7
+200	201	Interstellar	drama	2014	8.7
+201	202	Gladiator	drama	2000	8.5
+202	203	Dances with Wolves	drama	1990	8.0
+203	204	The Perfect Storm	drama	2000	6.4
+204	205	Lincoln	drama	2012	7.4
+205	206	Rise of the Planet of the Apes	drama	2011	7.6
+206	207	The Karate Kid	drama	2010	6.2
+207	208	Rain Man	drama	1988	8.0
+208	209	Air Force One	drama	1997	6.4
+209	210	True Grit	drama	2010	7.7
+210	211	A Beautiful Mind	drama	2001	8.2
+211	212	The Help	drama	2011	8.1
+212	213	3 Men and a Baby	drama	1987	5.9
+213	214	Gone Girl	drama	2014	8.2
+214	215	Kung Fu Panda 2	drama	2011	7.3
+215	216	Hannibal	drama	2001	6.7
+216	217	Catch Me If You Can	drama	2002	8.0
+217	218	Big Daddy	drama	1999	6.4
+218	219	Se7en	drama	1995	8.6
+219	220	Seven	drama	1979	6.1

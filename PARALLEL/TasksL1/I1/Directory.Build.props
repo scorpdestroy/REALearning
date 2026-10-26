@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <CUDA_PATH>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.4</CUDA_PATH>
+    <CudaToolkitDir>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.4\</CudaToolkitDir>
+    <CudaToolkitNvcc>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.4\bin\nvcc.exe</CudaToolkitNvcc>
+    <CudaToolkitVersion>13.4</CudaToolkitVersion>
+  </PropertyGroup>
+</Project>

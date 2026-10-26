@@ -1,0 +1,11 @@
+Компиляция:
+
+"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.0\bin\nvcc.exe" -std=c++17 -O3 -arch=sm_75 -I src src\main.cu src\ga_cuda.cu src\ga_cpu.cpp -o parallel_ga.exe -Xcompiler "/O2 /openmp /EHsc /MD"
+
+Запуск:
+
+parallel_ga.exe
+
+Plots:
+
+python scripts\plot_results.py

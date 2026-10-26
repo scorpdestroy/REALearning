@@ -1,0 +1,5 @@
+algorithm,n,uniform_ms,sorted_ms,reverse_ms,fewunique_ms,nearlysorted_ms
+bitonic_serial,131072,26.925,16.887,15.493,19.637,16.749
+bitonic_omp(p=8),131072,5.892,3.321,3.451,4.156,3.778
+std_sort,131072,7.424,1.017,1.178,1.719,1.172
+bitonic_cuda(b=256),131072,1.058,0.861,0.867,0.911,0.847
